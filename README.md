@@ -1,6 +1,6 @@
 # Hi, I'm Pedro Silva
 
-- 💻 Full stack Developer
+- 💻 Full Stack Developer
 - 🦀 Currently learning Rust
 - ☕ Visit [pedrosilva9.github.io/portfolio](https://pedrosilva9.github.io/portfolio) to know more about me
 
