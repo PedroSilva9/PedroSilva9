@@ -2,7 +2,7 @@
 
 - 💻 Full Stack Developer
 - 🦫 Currently learning Go
-- ☕ Visit [pedrosilva9.github.io/portfolio](https://pedrosilva9.github.io/portfolio) to know more about me
+- ☕ Click [here](https://pedrosilva9.github.io/portfolio) to know more about me
 
 ## Tech Stack
 
