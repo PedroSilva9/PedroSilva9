@@ -1,7 +1,7 @@
 # Hi, I'm Pedro Silva
 
 - 💻 Full Stack Developer
-- 🦀 Currently learning Rust
+- 🦫 Currently learning Go
 - ☕ Visit [pedrosilva9.github.io/portfolio](https://pedrosilva9.github.io/portfolio) to know more about me
 
 ## Tech Stack
